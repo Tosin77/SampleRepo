@@ -1,2 +1,3 @@
 this a new txt file 
-print megit 
+print me
+then i addede another file
