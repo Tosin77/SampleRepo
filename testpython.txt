@@ -1,4 +1,5 @@
 this a new txt file 
+print megit 
+murphy lee
 print me
 then i addede another file
-lee
